@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on FULL STACK WEB DEVELOPMENT(M.E.R.N)<br><br>🌱 I’m currently learning Blockchain, web3.js, solidity<br><br>📫 How to reach me yogeshone678@gmail.com
+🔭 FULL STACK WEB DEVELOPMENT(M.E.R.N)<br><br>🌱 I’m currently learning Blockchain, web3.js, solidity<br><br>📫 How to reach me yogeshone678@gmail.com
 
 
 ## 🌐 Socials:
