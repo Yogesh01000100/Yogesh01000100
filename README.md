@@ -1,23 +1,77 @@
-<h1 align="center">Hi 👋, I'm D.Yogesh</h1>
-<h3 align="center">A passionate web3 developer from India</h3>
+# Hello, I'm [Your Name]! 👋
 
-- 💬 Ask me about **web3, decentralization, web3 tools, permissioned blockchains**
+<!--
+You can add a banner image or a friendly introduction here.
+Consider sharing your current role, interests, and a brief personal touch.
+-->
 
-- 📫 How to reach me **https://www.linkedin.com/in/d-yogesh/**
+## 📈 GitHub Stats
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zhJOklk-sSnhofyahrgnpOELM_hPknru/view?usp=drive_link](https://drive.google.com/file/d/1zhJOklk-sSnhofyahrgnpOELM_hPknru/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yogesh_pdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yogesh_pdf" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/d-yogesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d-yogesh" height="30" width="40" /></a>
+<!-- GitHub stats cards side by side -->
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh01000100&show_icons=true&locale=en&layout=compact&theme=radical" alt="yogesh01000100" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogesh01000100&show_icons=true&locale=en&theme=radical" alt="yogesh01000100" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- GitHub streak card -->
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh01000100&theme=radical" alt="yogesh01000100" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogesh01000100&show_icons=true&locale=en&layout=compact" alt="yogesh01000100" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogesh01000100&show_icons=true&locale=en" alt="yogesh01000100" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh01000100&" alt="yogesh01000100" /></p>
+## 🔧 Technologies & Tools
+
+<!--
+List the languages, tools, and technologies you are familiar with.
+You can use badges or simply list them.
+-->
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+<!-- Add more badges here -->
+
+## 🌱 I’m currently learning ...
+
+<!-- Share what you are learning these days -->
+
+- Advanced React patterns
+- TypeScript
+- Cloud services with AWS
+
+## 💼 Technical Experience
+
+<!-- Briefly outline your experience, or link to your LinkedIn profile -->
+
+- Software Engineer at [Your Company](#)
+- Open Source Contributor
+
+## 📝 Latest Blog Posts
+
+<!-- If you write blog posts, you can list them here -->
+
+- [The Anatomy of a Great JavaScript Function](#)
+- [Demystifying Async/Await in JavaScript](#)
+
+## 📈 Recent GitHub Activity
+
+<!-- 
+You can include your recent GitHub activity using a third-party GitHub Action like
+github-activity-readme or similar.
+-->
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#123](#) in [repo/name](#)
+2. 🗣 Commented on [#456](#) in [repo/name](#)
+<!--END_SECTION:activity-->
+
+## 📫 How to reach me
+
+<!-- It's good to include your social media and professional links -->
+
+- [LinkedIn](#)
+- [Twitter](#)
+- [Your Website](#)
+
+<!-- You can also add a section for hobbies, fun facts, or anything else that you'd like to share about yourself. -->
+
