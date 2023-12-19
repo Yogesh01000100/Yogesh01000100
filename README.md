@@ -1,77 +1,72 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm D.Yogesh! 👋
 
-<!--
-You can add a banner image or a friendly introduction here.
-Consider sharing your current role, interests, and a brief personal touch.
--->
+<!-- Consider adding a personal statement or a short introduction about yourself here. -->
+
+As a full-stack developer, I specialize in creating scalable web apps with a focus on user experience. I'm deeply engaged with Web3's potential, working on blockchain and smart contract development to build secure, user-empowering DApps.
 
 ## 📈 GitHub Stats
 
-<!-- GitHub stats cards side by side -->
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh01000100&show_icons=true&locale=en&layout=compact&theme=radical" alt="yogesh01000100" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogesh01000100&show_icons=true&locale=en&theme=radical" alt="yogesh01000100" />
 </p>
 
-<!-- GitHub streak card -->
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh01000100&theme=radical" alt="yogesh01000100" />
 </p>
 
-
-
 ## 🔧 Technologies & Tools
 
-<!--
-List the languages, tools, and technologies you are familiar with.
-You can use badges or simply list them.
--->
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-<!-- Add more badges here -->
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-Express.js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ORM-Prisma-informational?style=flat&logo=Prisma&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Blockchain-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web3-Web3.js-informational?style=flat&logo=web3.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+
+<!-- Add more badges as needed -->
 
 ## 🌱 I’m currently learning ...
 
-<!-- Share what you are learning these days -->
+- Exploring the interoperability of blockchain networks, specifically between Hyperledger Fabric and Cactus to enhance permissioned blockchain solutions.
+- Working with Chainlink oracles to bring real-world data into smart contracts securely and reliably.
+- Delving into various ERC protocols to understand and utilize different token standards for Ethereum-based applications.
+- On the Web2 front, I'm honing in on specialized backend industry techniques to optimize server-side operations and enhance application performance.
 
-- Advanced React patterns
-- TypeScript
-- Cloud services with AWS
 
-## 💼 Technical Experience
+<!--##  Technical Experience
 
-<!-- Briefly outline your experience, or link to your LinkedIn profile -->
+Check out my resume for a detailed overview of my work experience and projects:
+![Resume](path/to/resume.png) <!-- Replace with the path to your resume image --> 
 
-- Software Engineer at [Your Company](#)
-- Open Source Contributor
+## 🏆 Achievements
 
-## 📝 Latest Blog Posts
+- Blockchain Developer Intern at AsetPay (May 2023 - July 2023)
+- Web Developer Intern at Vodafone Idea Foundation (June 2022 - Aug 2022)
+- Winner of the META (Facebook) Spark AR Hackathon
 
-<!-- If you write blog posts, you can list them here -->
+## 🚀 Recent Projects
 
-- [The Anatomy of a Great JavaScript Function](#)
-- [Demystifying Async/Await in JavaScript](#)
+- Real Time Chat Application - [Project Link](#)
+- Decentralised Farm Credit [ERC-20] Token System - [Project Link](#)
+- Wikipedia Search Application - [Project Link](#)
+- Marker-Based Augmented Reality App - [Project Link](#)
 
-## 📈 Recent GitHub Activity
-
-<!-- 
-You can include your recent GitHub activity using a third-party GitHub Action like
-github-activity-readme or similar.
--->
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#123](#) in [repo/name](#)
-2. 🗣 Commented on [#456](#) in [repo/name](#)
-<!--END_SECTION:activity-->
+<!-- Include other projects and links to the repositories -->
 
 ## 📫 How to reach me
 
-<!-- It's good to include your social media and professional links -->
+- [LinkedIn](https://www.linkedin.com/in/d-yogesh/)
+- [Twitter](https://twitter.com/Yogesh_pdf)
 
-- [LinkedIn](#)
-- [Twitter](#)
-- [Your Website](#)
-
-<!-- You can also add a section for hobbies, fun facts, or anything else that you'd like to share about yourself. -->
-
+<!-- Feel free to add a fun fact or a personal hobby here to give a more personal touch to your profile README. -->
