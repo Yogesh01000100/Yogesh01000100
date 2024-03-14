@@ -11,10 +11,6 @@ As a full-stack developer, I specialize in creating scalable web apps with a foc
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogesh01000100&show_icons=true&locale=en&theme=radical" alt="yogesh01000100" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh01000100&theme=radical" alt="yogesh01000100" />
-</p>
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
