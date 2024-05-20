@@ -1,8 +1,8 @@
-# Hello, I'm D.Yogesh! 👋
+# Hello, I'm D Yogesh! 👋
 
 <!-- Consider adding a personal statement or a short introduction about yourself here. -->
 
-As a full-stack developer, I specialize in creating scalable web apps with a focus on user experience. I'm deeply engaged with Web3's potential, working on blockchain and smart contract development to build secure, user-empowering DApps.
+As a full-stack developer, I create scalable web apps focusing on user experience. I'm deeply engaged with Web3's potential, working on blockchain and smart contract development to build secure, user-empowering DApps.
 
 ## 📈 GitHub Stats
 
@@ -53,7 +53,7 @@ Check out my resume for a detailed overview of my work experience and projects:
 
 ## 🚀 Recent Projects
 
-- Real Time Chat Application - [Project Link](#)
+- Real-Time Chat Application - [Project Link](#)
 - Decentralised Farm Credit [ERC-20] Token System - [Project Link](#)
 - Wikipedia Search Application - [Project Link](#)
 - Marker-Based Augmented Reality App - [Project Link](#)
