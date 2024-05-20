@@ -53,10 +53,10 @@ Check out my resume for a detailed overview of my work experience and projects:
 
 ## 🚀 Recent Projects
 
-- Real-Time Chat Application - [Project Link](#)
-- Decentralised Farm Credit [ERC-20] Token System - [Project Link](#)
-- Wikipedia Search Application - [Project Link](#)
-- Marker-Based Augmented Reality App - [Project Link](#)
+- Real-Time Chat Application - [Project Link](https://jvl-chat-app.vercel.app)
+- Decentralised Farm Credit [ERC-20] Token System - [Project Link](https://github.com/Yogesh01000100/farm-DEX)
+- Wikipedia Search Application - [Project Link](https://wikisrchpage.ccbp.tech/)
+- Marker-Based Augmented Reality App - [Project Link](https://github.com/Yogesh01000100/VRforest)
 
 <!-- Include other projects and links to the repositories -->
 
