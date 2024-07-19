@@ -2,8 +2,6 @@
 
 <!-- Consider adding a personal statement or a short introduction about yourself here. -->
 
-As a full-stack developer, I create scalable web apps focusing on user experience. I'm deeply engaged with Web3's potential, working on blockchain and smart contract development to build secure, user-empowering DApps.
-
 ## 📈 GitHub Stats
 
 <p>
@@ -31,33 +29,6 @@ As a full-stack developer, I create scalable web apps focusing on user experienc
 ![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
 <!-- Add more badges as needed -->
-
-## 🌱 I’m currently learning ...
-
-- Exploring the interoperability of blockchain networks, specifically between Hyperledger Fabric and Cactus to enhance permissioned blockchain solutions.
-- Working with Chainlink oracles to bring real-world data into smart contracts securely and reliably.
-- Delving into various ERC protocols to understand and utilize different token standards for Ethereum-based applications.
-- On the Web2 front, I'm honing in on specialized backend industry techniques to optimize server-side operations and enhance application performance.
-
-
-<!--##  Technical Experience
-
-Check out my resume for a detailed overview of my work experience and projects:
-![Resume](path/to/resume.png) <!-- Replace with the path to your resume image --> 
-
-## 🏆 Achievements
-
-- Blockchain Developer Intern at AsetPay (May 2023 - July 2023)
-- Web Developer Intern at Vodafone Idea Foundation (June 2022 - Aug 2022)
-- Winner of the META (Facebook) Spark AR Hackathon
-
-## 🚀 Recent Projects
-
-- Real-Time Chat Application - [Project Link](https://jvl-chat-app.vercel.app)
-- Decentralised Farm Credit [ERC-20] Token System - [Project Link](https://github.com/Yogesh01000100/farm-DEX)
-- Wikipedia Search Application - [Project Link](https://wikisrchpage.ccbp.tech/)
-- Marker-Based Augmented Reality App - [Project Link](https://github.com/Yogesh01000100/VRforest)
-
 <!-- Include other projects and links to the repositories -->
 
 ## 📫 How to reach me
