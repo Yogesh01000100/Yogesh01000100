@@ -30,10 +30,4 @@
 
 <!-- Add more badges as needed -->
 <!-- Include other projects and links to the repositories -->
-
-## 📫 How to reach me
-
-- [LinkedIn](https://www.linkedin.com/in/d-yogesh/)
-- [Twitter](https://twitter.com/Yogesh_pdf)
-
 <!-- Feel free to add a fun fact or a personal hobby here to give a more personal touch to your profile README. -->
