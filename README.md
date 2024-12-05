@@ -5,7 +5,7 @@
 ## 📈 GitHub Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh01000100&show_icons=true&locale=en&layout=compact&theme=radical" alt="yogesh01000100" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh01000100&locale=en&layout=donut&theme=radical&langs_count=5&hide=kotlin,rust&show_icons=true" alt="yogesh01000100" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogesh01000100&show_icons=true&locale=en&theme=radical" alt="yogesh01000100" />
 </p>
 
