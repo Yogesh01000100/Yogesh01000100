@@ -1,4 +1,4 @@
-# Hello, I'm D Yogesh! 👋
+# Hello, I'm Yogesh D! 👋
 
 <!-- Consider adding a personal statement or a short introduction about yourself here. -->
 
