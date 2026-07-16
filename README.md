@@ -5,8 +5,8 @@
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img height="200" src="https://github-stats-card-plum.vercel.app/api/card?username=yogesh01000100&card=stats&theme=orbit&width=440" alt="yogesh01000100" />
-  <img height="200" src="https://github-stats-card-plum.vercel.app/api/card?username=yogesh01000100&card=langs&theme=orbit&width=440&langs_count=5" alt="yogesh01000100" />
+  <img height="200" src="https://github-stats-card-plum.vercel.app/api/card?username=yogesh01000100&card=stats&theme=mono&width=359" alt="yogesh01000100" />
+  <img height="200" src="https://github-stats-card-plum.vercel.app/api/card?username=yogesh01000100&card=langs&theme=mono&width=359&langs_count=5" alt="yogesh01000100" />
 </p>
 </p>
 
