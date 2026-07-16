@@ -4,11 +4,9 @@
 
 ## 📈 GitHub Stats
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh01000100&locale=en&layout=donut&theme=radical&langs_count=5&hide=kotlin,rust&show_icons=true" alt="yogesh01000100" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogesh01000100&show_icons=true&locale=en&theme=radical" alt="yogesh01000100" />
-  <p>
-  <img src="https://komarev.com/ghpvc/?username=Yogesh01000100&color=blue" alt="Profile Views" />
+<p align="left">
+  <img height="200" src="https://github-stats-card-plum.vercel.app/api/card?username=yogesh01000100&card=stats&theme=orbit&width=440" alt="yogesh01000100" />
+  <img height="200" src="https://github-stats-card-plum.vercel.app/api/card?username=yogesh01000100&card=langs&theme=orbit&width=440&langs_count=5" alt="yogesh01000100" />
 </p>
 </p>
 
