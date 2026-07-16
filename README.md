@@ -5,13 +5,12 @@
 ## 📈 GitHub Stats
 
 <p align="left">
-  <p align="left">
-  <img height="200" src="https://github-stats-card-plum.vercel.app/api/card?username=yogesh01000100&card=stats&theme=mono&width=429" alt="yogesh01000100" />
-  <img height="200" src="https://github-stats-card-plum.vercel.app/api/card?username=yogesh01000100&card=langs&theme=mono&width=429&langs_count=5" alt="yogesh01000100" />
+  <img height="200" src="https://github-stats-card-plum.vercel.app/api/card?username=yogesh01000100&card=stats&theme=mono&width=397" alt="yogesh01000100" />
+  <img height="200" src="https://github-stats-card-plum.vercel.app/api/card?username=yogesh01000100&card=langs&theme=mono&width=397&langs_count=5" alt="yogesh01000100" />
 </p>
 <p align="left">
-  <img height="200" src="https://github-stats-card-plum.vercel.app/api/card?username=yogesh01000100&card=milestones&theme=mono&width=429" alt="yogesh01000100" />
-  <img height="200" src="https://github-stats-card-plum.vercel.app/api/card?username=yogesh01000100&card=repos&theme=mono&width=429" alt="yogesh01000100" />
+  <img height="200" src="https://github-stats-card-plum.vercel.app/api/card?username=yogesh01000100&card=milestones&theme=mono&width=397" alt="yogesh01000100" />
+  <img height="200" src="https://github-stats-card-plum.vercel.app/api/card?username=yogesh01000100&card=repos&theme=mono&width=397" alt="yogesh01000100" />
 </p>
 </p>
   <img src="https://komarev.com/ghpvc/?username=Yogesh01000100&color=blue" alt="Profile Views" />
