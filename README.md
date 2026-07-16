@@ -8,6 +8,7 @@
   <img height="200" src="https://github-stats-card-plum.vercel.app/api/card?username=yogesh01000100&card=stats&theme=mono&width=359" alt="yogesh01000100" />
   <img height="200" src="https://github-stats-card-plum.vercel.app/api/card?username=yogesh01000100&card=langs&theme=mono&width=359&langs_count=5" alt="yogesh01000100" />
 </p>
+  <img src="https://komarev.com/ghpvc/?username=Yogesh01000100&color=blue" alt="Profile Views" />
 </p>
 
 ## 🔧 Technologies & Tools
